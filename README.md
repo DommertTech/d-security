@@ -14,7 +14,7 @@ Security system using Intel Edison + Arduino Breakout board + Groove Seeed shiel
 
 
 
-###Jobs
+### Jobs
 
 * Active Alarm
   - Numberpad
